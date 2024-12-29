@@ -1,0 +1,602 @@
+[
+  {
+    "city": "Mumbai",
+    "temperature": 27,
+    "condition": "Rainy",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Delhi",
+    "temperature": 27,
+    "condition": "Hot",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Bangalore",
+    "temperature": 33,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Kolkata",
+    "temperature": 21,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Chennai",
+    "temperature": 24,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Pune",
+    "temperature": 37,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Hyderabad",
+    "temperature": 35,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Jaipur",
+    "temperature": 36,
+    "condition": "Sunny",
+    "message": "A bright and sunny day, perfect for outdoor activities!"
+  },
+  {
+    "city": "Lucknow",
+    "temperature": 22,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Ahmedabad",
+    "temperature": 24,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Surat",
+    "temperature": 34,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Kanpur",
+    "temperature": 36,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Nagpur",
+    "temperature": 37,
+    "condition": "Sunny",
+    "message": "A bright and sunny day, perfect for outdoor activities!"
+  },
+  {
+    "city": "Visakhapatnam",
+    "temperature": 25,
+    "condition": "Sunny",
+    "message": "A bright and sunny day, perfect for outdoor activities!"
+  },
+  {
+    "city": "Bhopal",
+    "temperature": 34,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Patna",
+    "temperature": 20,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Ludhiana",
+    "temperature": 31,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Agra",
+    "temperature": 30,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Vadodara",
+    "temperature": 35,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Guwahati",
+    "temperature": 28,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Rajkot",
+    "temperature": 28,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Nashik",
+    "temperature": 29,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Ranchi",
+    "temperature": 39,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Jabalpur",
+    "temperature": 29,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Meerut",
+    "temperature": 28,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Amritsar",
+    "temperature": 32,
+    "condition": "Sunny",
+    "message": "A bright and sunny day, perfect for outdoor activities!"
+  },
+  {
+    "city": "Aurangabad",
+    "temperature": 34,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Jodhpur",
+    "temperature": 28,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Gwalior",
+    "temperature": 38,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Vijayawada",
+    "temperature": 26,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Madurai",
+    "temperature": 27,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Raipur",
+    "temperature": 32,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Kota",
+    "temperature": 38,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Chandigarh",
+    "temperature": 22,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Mysore",
+    "temperature": 34,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Bareilly",
+    "temperature": 21,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Aligarh",
+    "temperature": 32,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Moradabad",
+    "temperature": 37,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Gorakhpur",
+    "temperature": 38,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Bikaner",
+    "temperature": 33,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Noida",
+    "temperature": 32,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Ghaziabad",
+    "temperature": 36,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "temperature": 25,
+    "condition": "Sunny",
+    "message": "A bright and sunny day, perfect for outdoor activities!"
+  },
+  {
+    "city": "Salem",
+    "temperature": 31,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Warangal",
+    "temperature": 24,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Guntur",
+    "temperature": 25,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Jamshedpur",
+    "temperature": 25,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Udaipur",
+    "temperature": 20,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Dehradun",
+    "temperature": 23,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Bhavnagar",
+    "temperature": 28,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Asansol",
+    "temperature": 30,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Dhanbad",
+    "temperature": 20,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Ajmer",
+    "temperature": 31,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Kozhikode",
+    "temperature": 27,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Tiruchirappalli",
+    "temperature": 25,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Rajahmundry",
+    "temperature": 30,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Kolhapur",
+    "temperature": 34,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Allahabad",
+    "temperature": 27,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Tirupati",
+    "temperature": 25,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Thrissur",
+    "temperature": 32,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Anantapur",
+    "temperature": 27,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Kurnool",
+    "temperature": 35,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Bellary",
+    "temperature": 31,
+    "condition": "Partly Cloudy",
+    "message": "Partly cloudy skies with comfortable temperatures."
+  },
+  {
+    "city": "Bhagalpur",
+    "temperature": 29,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Saharanpur",
+    "temperature": 23,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Mangalore",
+    "temperature": 24,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Bhilai",
+    "temperature": 35,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Jammu",
+    "temperature": 32,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Shimla",
+    "temperature": 39,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Dharamshala",
+    "temperature": 24,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Shillong",
+    "temperature": 31,
+    "condition": "Sunny",
+    "message": "A bright and sunny day, perfect for outdoor activities!"
+  },
+  {
+    "city": "Imphal",
+    "temperature": 29,
+    "condition": "Sunny",
+    "message": "A bright and sunny day, perfect for outdoor activities!"
+  },
+  {
+    "city": "Aizawl",
+    "temperature": 38,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Itanagar",
+    "temperature": 22,
+    "condition": "Partly Cloudy",
+    "message": "Partly cloudy skies with comfortable temperatures."
+  },
+  {
+    "city": "Gangtok",
+    "temperature": 21,
+    "condition": "Partly Cloudy",
+    "message": "Partly cloudy skies with comfortable temperatures."
+  },
+  {
+    "city": "Panaji",
+    "temperature": 31,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Pondicherry",
+    "temperature": 30,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Port Blair",
+    "temperature": 33,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Srinagar",
+    "temperature": 28,
+    "condition": "Partly Cloudy",
+    "message": "Partly cloudy skies with comfortable temperatures."
+  },
+  {
+    "city": "Leh",
+    "temperature": 22,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Kargil",
+    "temperature": 33,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Dimapur",
+    "temperature": 20,
+    "condition": "Partly Cloudy",
+    "message": "Partly cloudy skies with comfortable temperatures."
+  },
+  {
+    "city": "Silchar",
+    "temperature": 40,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Tezpur",
+    "temperature": 32,
+    "condition": "Cloudy",
+    "message": "Overcast skies with a cool breeze."
+  },
+  {
+    "city": "Agartala",
+    "temperature": 22,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Darjeeling",
+    "temperature": 33,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Tawang",
+    "temperature": 21,
+    "condition": "Partly Cloudy",
+    "message": "Partly cloudy skies with comfortable temperatures."
+  },
+  {
+    "city": "Nainital",
+    "temperature": 32,
+    "condition": "Stormy",
+    "message": "Stormy weather, best to stay indoors."
+  },
+  {
+    "city": "Haridwar",
+    "temperature": 37,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Rishikesh",
+    "temperature": 38,
+    "condition": "Cool",
+    "message": "Cool weather, enjoy the refreshing air."
+  },
+  {
+    "city": "Alleppey",
+    "temperature": 28,
+    "condition": "Sunny",
+    "message": "A bright and sunny day, perfect for outdoor activities!"
+  },
+  {
+    "city": "Kottayam",
+    "temperature": 26,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Palakkad",
+    "temperature": 29,
+    "condition": "Hot",
+    "message": "Scorching heat, stay hydrated and avoid the sun."
+  },
+  {
+    "city": "Malappuram",
+    "temperature": 28,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Kannur",
+    "temperature": 36,
+    "condition": "Rainy",
+    "message": "Rainy weather, don't forget your umbrella!"
+  },
+  {
+    "city": "Kasaragod",
+    "temperature": 32,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Erode",
+    "temperature": 38,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Tiruppur",
+    "temperature": 26,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  },
+  {
+    "city": "Cuddalore",
+    "temperature": 33,
+    "condition": "Pleasant",
+    "message": "Mild and pleasant weather, enjoy your day."
+  },
+  {
+    "city": "Nagapattinam",
+    "temperature": 27,
+    "condition": "Hazy",
+    "message": "Hazy skies, but temperatures are manageable."
+  }
+]
